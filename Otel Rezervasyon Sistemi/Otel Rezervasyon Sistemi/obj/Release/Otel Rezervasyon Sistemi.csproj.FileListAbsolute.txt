@@ -1,0 +1,39 @@
+C:\Users\Bulut\documents\visual studio 2012\Projects\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\Otel Rezervasyon Sistemi.exe.config
+C:\Users\Bulut\documents\visual studio 2012\Projects\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\Otel Rezervasyon Sistemi.exe
+C:\Users\Bulut\documents\visual studio 2012\Projects\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\Otel Rezervasyon Sistemi.pdb
+C:\Users\Bulut\documents\visual studio 2012\Projects\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel_Rezervasyon_Sistemi.OtelRezervasyonSistemi.resources
+C:\Users\Bulut\documents\visual studio 2012\Projects\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\Bulut\documents\visual studio 2012\Projects\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.csproj.GenerateResource.Cache
+C:\Users\Bulut\documents\visual studio 2012\Projects\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.exe
+C:\Users\Bulut\documents\visual studio 2012\Projects\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.pdb
+C:\Users\Bulut\documents\visual studio 2012\Projects\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Batuhan\Desktop\deneme1\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\Otel Rezervasyon Sistemi.exe.config
+C:\Users\Batuhan\Desktop\deneme1\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.exe
+C:\Users\Batuhan\Desktop\deneme1\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.pdb
+C:\Users\Batuhan\Desktop\deneme1\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\bin\Debug\otel.accdb
+C:\Users\Batuhan\Desktop\deneme1\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\Otel Rezervasyon Sistemi.exe
+C:\Users\Batuhan\Desktop\deneme1\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\Otel Rezervasyon Sistemi.pdb
+C:\Users\Batuhan\Desktop\deneme1\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Batuhan\Desktop\deneme1\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel_Rezervasyon_Sistemi.OtelRezervasyonSistemi.resources
+C:\Users\Batuhan\Desktop\deneme1\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\deneme1\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.csproj.GenerateResource.Cache
+D:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\Otel Rezervasyon Sistemi.exe.config
+D:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.exe
+D:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.pdb
+D:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\bin\Debug\otel.accdb
+D:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\Otel Rezervasyon Sistemi.exe
+D:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\Otel Rezervasyon Sistemi.pdb
+D:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.csprojResolveAssemblyReference.cache
+D:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel_Rezervasyon_Sistemi.OtelRezervasyonSistemi.resources
+D:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel_Rezervasyon_Sistemi.Properties.Resources.resources
+D:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.csproj.GenerateResource.Cache
+E:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\Otel Rezervasyon Sistemi.exe.config
+E:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.exe
+E:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.pdb
+E:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\bin\Debug\otel.accdb
+E:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\Otel Rezervasyon Sistemi.exe
+E:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\bin\Release\Otel Rezervasyon Sistemi.pdb
+E:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.csprojResolveAssemblyReference.cache
+E:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel_Rezervasyon_Sistemi.OtelRezervasyonSistemi.resources
+E:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel_Rezervasyon_Sistemi.Properties.Resources.resources
+E:\DERSLER\Sistem Analizi Proje\Otel Rezervasyon Sistemi\Otel Rezervasyon Sistemi\obj\Release\Otel Rezervasyon Sistemi.csproj.GenerateResource.Cache
